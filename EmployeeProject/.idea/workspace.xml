@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28c1b908-0ea9-4e2f-85ca-cc37e60353b1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1u8KP3JatkdY8LrJru4h9ZfgOl9" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentTestWhitExceptionHandler">
+    <configuration name="MainApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainApp" />
+      <module name="EmployeeProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitParameterizedStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.JUnitParameterizedStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitParameterizedStudentTest.addCoursetoStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.JUnitParameterizedStudentTest" />
+      <option name="METHOD_NAME" value="addCoursetoStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitParameterizedStudentTest.createStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.JUnitParameterizedStudentTest" />
+      <option name="METHOD_NAME" value="createStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTestWhitExceptionHandler$AddCoursetoStudentExceptionalScenario.throwsExceptionWhenAddToNullCoureseToStrudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.StudentTestWhitExceptionHandler$AddCoursetoStudentExceptionalScenario" />
+      <option name="METHOD_NAME" value="throwsExceptionWhenAddToNullCoureseToStrudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTestWhitExceptionHandler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitTest.StudentTestWhitExceptionHandler" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApp" />
+      <item itemvalue="JUnit.JUnitParameterizedStudentTest" />
+      <item itemvalue="JUnit.JUnitParameterizedStudentTest.createStudent" />
+      <item itemvalue="JUnit.JUnitParameterizedStudentTest.addCoursetoStudent" />
+      <item itemvalue="JUnit.StudentTestWhitExceptionHandler" />
+      <item itemvalue="JUnit.StudentTestWhitExceptionHandler$AddCoursetoStudentExceptionalScenario.throwsExceptionWhenAddToNullCoureseToStrudent" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentTestWhitExceptionHandler" />
+        <item itemvalue="JUnit.StudentTestWhitExceptionHandler$AddCoursetoStudentExceptionalScenario.throwsExceptionWhenAddToNullCoureseToStrudent" />
+        <item itemvalue="JUnit.JUnitParameterizedStudentTest" />
+        <item itemvalue="JUnit.JUnitParameterizedStudentTest.addCoursetoStudent" />
+        <item itemvalue="JUnit.JUnitParameterizedStudentTest.createStudent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28c1b908-0ea9-4e2f-85ca-cc37e60353b1" name="Default Changelist" comment="" />
+      <created>1563796020993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563796020993</updated>
+      <workItem from="1563796023954" duration="4163000" />
+      <workItem from="1563864650088" duration="7878000" />
+      <workItem from="1563950656478" duration="12418000" />
+      <workItem from="1564037006460" duration="16155000" />
+      <workItem from="1564123662252" duration="16127000" />
+      <workItem from="1564382584323" duration="3260000" />
+      <workItem from="1564470606950" duration="8363000" />
+      <workItem from="1564559680480" duration="12433000" />
+      <workItem from="1564641660892" duration="7193000" />
+      <workItem from="1564744931681" duration="3278000" />
+      <workItem from="1564849360259" duration="1192000" />
+      <workItem from="1565005612443" duration="1213000" />
+      <workItem from="1565076812438" duration="2542000" />
+      <workItem from="1565162415389" duration="114000" />
+      <workItem from="1624041751472" duration="92000" />
+      <workItem from="1624042161079" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JUnitParameterizedStudentTest - 2019.07.31 at 17h 47m 09s.xml">
+      <configuration name="JUnitParameterizedStudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitParameterizedStudentTest - 2019.07.31 at 17h 47m 41s.xml">
+      <configuration name="JUnitParameterizedStudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitParameterizedStudentTest - 2019.07.31 at 17h 50m 56s.xml">
+      <configuration name="JUnitParameterizedStudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitParameterizedStudentTest - 2019.08.01 at 09h 55m 32s.xml">
+      <configuration name="JUnitParameterizedStudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JUnitParameterizedStudentTest - 2019.08.01 at 09h 56m 45s.xml">
+      <configuration name="JUnitParameterizedStudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTestWhitExceptionHandler - 2019.08.02 at 14h 57m 25s.xml">
+      <configuration name="StudentTestWhitExceptionHandler" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTestWhitExceptionHandler - 2019.08.02 at 14h 57m 55s.xml">
+      <configuration name="StudentTestWhitExceptionHandler" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTestWhitExceptionHandler - 2019.08.02 at 14h 58m 15s.xml">
+      <configuration name="StudentTestWhitExceptionHandler" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTestWhitExceptionHandler$AddCoursetoStudentExceptionalScenario_throwsExceptionWhenAddToNullCoureseToStrudent - 2019.08.02 at 15h 39m 02s.xml">
+      <configuration name="StudentTestWhitExceptionHandler$AddCoursetoStudentExceptionalScenario.throwsExceptionWhenAddToNullCoureseToStrudent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTestWhitExceptionHandler - 2019.08.02 at 15h 39m 13s.xml">
+      <configuration name="StudentTestWhitExceptionHandler" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EmployeeProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
